@@ -14,5 +14,9 @@
         "Aramin\\Jwt\\JwtServiceProvider"
       ]
     }
+  },
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^12.0"
   }
 }
